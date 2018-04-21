@@ -7,4 +7,4 @@
 
 * Evaluaton - This file contains the IoU calculation and bounding box display which are both used to evaluate the results of the model.
 
-For implementation details, please refer to the report: _______
+For implementation details, please refer to the report: http://cs230.stanford.edu/files_winter_2018/projects/6939556.pdf
